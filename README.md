@@ -1,13 +1,13 @@
-# Web Scraper for Indeed joblist
+# Web Scraper for Indeed job postings
 Developers: Zeyu & Feya @Key Learning App, Spring 2021.
 ## Simple steps to run
 Please clone this repo on your computer (or Virtual Machine):
 ```
-https://github.com/wzy0766/Web_Scraper_Indeed.git
+git clone https://github.com/wzy0766/Web_Scraper_Indeed.git
 cd Web_Scraper_Indeed/
 ```
 ## Python Libraries need to be installed
-requests, BeautifulSoup, pandas.
+ requests, BeautifulSoup, pandas.
 ## Extracted Info:
 * Job title
 * Company
